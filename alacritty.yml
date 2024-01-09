@@ -58,7 +58,7 @@ font:
     style: Italic
 
   # 字大小
-  size: 17.0
+  size: 13.0
 
   offset:
     x: 0
@@ -68,6 +68,7 @@ font:
     y: 3
 
 window:
+  opacity: 0.9
   padding:
     x: 20
     y: 22
