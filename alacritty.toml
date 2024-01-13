@@ -46,14 +46,14 @@ text = "CellForeground"
 shape = "Beam"
 
 [font]
-size = 13.0
+size = 14.0
 
 [font.bold]
-family = "JetBrains Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Regular"
 
 [font.bold_italic]
-family = "JetBrains Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Italic"
 
 [font.glyph_offset]
@@ -61,11 +61,11 @@ x = 0
 y = 3
 
 [font.italic]
-family = "JetBrains Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Italic"
 
 [font.normal]
-family = "JetBrains Mono"
+family = "JetBrainsMono Nerd Font Mono"
 style = "Regular"
 
 [font.offset]
