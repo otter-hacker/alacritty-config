@@ -49,11 +49,11 @@ shape = "Beam"
 size = 14.0
 
 [font.bold]
-family = "JetBrainsMono Nerd Font Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Regular"
 
 [font.bold_italic]
-family = "JetBrainsMono Nerd Font Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Italic"
 
 [font.glyph_offset]
@@ -61,11 +61,11 @@ x = 0
 y = 3
 
 [font.italic]
-family = "JetBrainsMono Nerd Font Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Italic"
 
 [font.normal]
-family = "JetBrainsMono Nerd Font Mono"
+family = "JetBrainsMono Nerd Font"
 style = "Regular"
 
 [font.offset]
@@ -624,13 +624,16 @@ save_to_clipboard = true
 semantic_escape_chars = ",│`|:\"' ()[]{}<>"
 
 [window]
-decorations = "transparent"
-opacity = 0.95
+# decorations = "transparent"
+decorations = "buttonless"
+opacity = 0.9
+dynamic_padding = true
+dynamic_title = true
 
 [window.dimensions]
-columns = 106
-lines = 25
+columns = 160
+lines = 50
 
 [window.padding]
-x = 20
-y = 22
+x = 2
+y = 0
